@@ -15,6 +15,7 @@
 ---
 
 ## 📂 Project Structure
+
 📁 CodeAlpha_Calculator 
 ├── index.html      # Calculator UI
 ├── style.css       # Styling and responsiveness
