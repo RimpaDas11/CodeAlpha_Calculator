@@ -1,26 +1,18 @@
 # CodeAlpha_Calculator
 
-🎯 A simple and responsive calculator built using *HTML, **CSS, and **JavaScript* as part of my internship with @CodeAlpha.
+🎯 A simple and responsive calculator built using HTML, CSS, and JavaScript as part of my internship with @CodeAlpha.
 
 ---
 
 ## 💡 Features
 
-✅ Performs basic arithmetic: *Addition, Subtraction, Multiplication, Division*  
-✅ Supports *real-time result display*  
-✅ *Clear/Delete* functionality  
-✅ *Responsive design* (works on mobile/tablet/desktop)  
-✅ Bonus: *Keyboard input support*
+✅ Performs basic arithmetic: Addition, Subtraction, Multiplication, Division 
+✅ Supports real-time result display  
+✅ Clear/Delete functionality  
+✅ Responsive design (works on mobile/tablet/desktop)  
+✅ Bonus: Keyboard input support
 
 ---
-
-## 📂 Project Structure
-
-📁 CodeAlpha_Calculator 
-├── index.html      # Calculator UI
-├── style.css       # Styling and responsiveness
-└── script.js       # Functionality and logic
-
 
 
 ## 📌 Internship Info
