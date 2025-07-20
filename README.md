@@ -6,11 +6,12 @@
 
 ## 💡 Features
 
-✅ Performs basic arithmetic: Addition, Subtraction, Multiplication, Division 
-✅ Supports real-time result display  
-✅ Clear/Delete functionality  
-✅ Responsive design (works on mobile/tablet/desktop)  
-✅ Bonus: Keyboard input support
+✅ Performs basic arithmetic: *Addition, Subtraction, Multiplication, Division*  
+✅ Supports *real-time result display*  
+✅ *Clear/Delete* functionality  
+✅ *Responsive design* (works on mobile/tablet/desktop)  
+✅ Bonus: *Keyboard input support*
+
 
 ---
 
